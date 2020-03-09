@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#gif-container {
+  display: flex;
+  justify-content: center;
+}
+#refresh-button {
+  margin: 0 auto;
+  display: block;
+  margin-top: 5%;
+}
