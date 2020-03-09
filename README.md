@@ -1,2 +1,2 @@
-# js_promises_random_gif
-learned about JS Promises using Giphy API as example
+# Random GIF from Giphy
+This code utilizies JS promises using the fetch function to make a request to the Giphy API and get a random GIF out of their database.
