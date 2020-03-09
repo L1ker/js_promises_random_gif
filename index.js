@@ -1,5 +1,5 @@
 function setup() {
-  const key = "t0VhO5TvTZOUUoPGsx3SkBeP64WFeyOO";
+  const key = "insert key";
   const url = `http://api.giphy.com/v1/gifs/random?api_key=${key}`;
   let canvas = document.querySelector("#defaultCanvas0");
   let img = document.getElementById("gif");
